@@ -1,0 +1,21 @@
+.nav-bar {
+  width: 100vw;
+  height: 10vh;
+  background-color: blue;
+  color: white;
+  display: flex;
+}
+
+.options {
+  display: flex;
+  width: 500px;
+}
+
+.option {
+  width: 100px;
+  height: 25px;
+  padding: 2px;
+  margin: 0 4px;
+  border: 1px solid black;
+  color: yellow;
+}
